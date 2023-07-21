@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Landing Page</title>
+	<style type="text/css">
+		.nav:hover
+		{
+			font-size: 35px;
+		}
+		body
+		{
+			background-image: url("https://www.whatsappimages.in/wp-content/uploads/2022/03/Beautiful-White-Background-Images-pics-for-download-3.jpg");
+			background-size: cover;
+		}
+		.h
+		{
+			font-size: 55px;
+			text-align: center;
+		}
+		.h1
+		{
+			text-align: center;
+		}
+		.o
+		{    
+			align-items: center;
+			text-align: center;
+			font-size: 20px;
+			background-color: lavender;
+			border: 0px;
+			border-radius: 15px;
+			font-style: inherit;
+
+
+		}
+	</style>
+</head>
+<body>
+	<table width="100%" text-align="center">
+		<tr >
+			<td >
+				<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png" width="200" height="150">
+			</td>
+			<td>
+				<h2 class="nav">Store</h2>
+			</td >
+			<td >
+				<h2 class="nav">Mac</h2>
+			</td>
+			<td >
+				<h2 class="nav">iPad</h2>
+			</td>
+			<td >
+				<h2 class="nav">iPhone</h2>
+			</td>
+			<td >
+				<h2 class="nav">Watch</h2>
+			</td>
+			<td>
+				<h2 class="nav">Airpods</h2>
+			</td>
+			<td>
+				<h2 class="nav">Tv&Home</h2>
+			</td>
+			<td >
+				<h2 class="nav">Support</h2>
+			</td>
+			<td> <input type="text" placeholder="Search.." maxlength="100"></td>
+		</tr>
+	</table>
+		
+    <p class="h">Apple Accessories <sub>makes everything smarter and easier...</sub></p>
+
+    <table width="40%">
+    	<tr>
+    		<td>
+    			<img src="https://5.imimg.com/data5/II/OY/MY-6222353/mac-air-apple-laptop.jpg" width="200px" height="150px"><figcaption align=" center">MacBook</figcaption>
+    		</td>
+    		<td>
+    			<img src="https://consomac.fr/images/news/ipad-air-5-dos-plus-fin-illu.jpg" width="200px" height="150px"><figcaption align="center">iPad</figcaption>
+    		</td>
+    		<td>
+    			<img src="https://www.apple.com/in/iphone/home/images/meta/iphone__ky2k6x5u6vue_og.png" width="200px" height="150px"><figcaption align="center">iPhone</figcaption>
+    		</td>
+    		<td>
+    			<img src="https://i.insider.com/619d404463e3f30018756730?width=700" width="200px" height="150px"><figcaption align="center">Watches</figcaption>
+    		</td>
+    		<td>
+    			<img src="https://imageio.forbes.com/specials-images/imageserve/5dd0ac0be0af7b0006b18484/Apple-AirPods-Pro--Apple-AirPods--Apple-AirPods-2--Apple-AirPods-Pro-upgrade--Apple/960x0.png?height=511&width=711&fit=bounds" width="200px" height="150px"><figcaption align="center">Airpods</figcaption>
+    		</td>
+    		<td>
+    			<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/homepod/ios14-homepod-ipad-iphone12-pro-watch-homekit-hero.jpg" width="200px" height="150px"><figcaption align="center">Tv&Home</figcaption>
+    		</td>
+    	</tr>
+    </table>
+    <table align="center">
+    	<tr>
+    	<td>
+    		<button type="Submit" class="o">Order now</button>
+    	</td>
+        </tr>
+    </table>
+</body>
+</html>
